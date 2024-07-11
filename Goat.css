@@ -10,8 +10,9 @@ header{
 	);
 }
 
-.box{ 
-    border-style: 15px red double ;
+.box{
+    border: 5px solid white ; 
+    border-style: double
 }
 
 
