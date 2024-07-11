@@ -15,6 +15,11 @@ header{
     border-style: double
 }
 
+img {
+    width: 30%;
+    height: 27vh;
+    border-radius: 50%;
+}
 
 footer{background: linear-gradient(
     0deg,
