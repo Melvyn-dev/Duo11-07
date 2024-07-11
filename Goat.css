@@ -3,31 +3,33 @@
 }
 
 header{
+
     background: linear-gradient(
 		0deg,
 		rgba(34, 193, 195, 1) 0%,
 		rgba(45, 253, 149, 0.681) 100%
 	);
-
-    color: white;
 }
 
-nav{
-    float: right;
-    height: 200px;
-}
 
-.box{
+#box{
+
+    
+margin-top: 4%;
     border: 5px solid white ; 
     border-style: double
 }
 
-jnsdjkvsdnk{
-    sqcdwmfkv,
+img {
+    width: 30%;
+    height: 27vh;
+    border-radius: 50%;
 }
 
 footer{background: linear-gradient(
     0deg,
     rgba(34, 193, 195, 1) 0%,
     rgba(45, 253, 149, 0.681) 100%
-);}
+);
+
+}
